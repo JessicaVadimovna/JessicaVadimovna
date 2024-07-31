@@ -1,16 +1,29 @@
-## Hi there 👋
+# Привет, я Джессика 👋
 
-<!--
-**JessicaVadimovna/JessicaVadimovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Обо мне
+Я фронтенд-разработчик с опытом 1 год.
+Так же умею в тестирование и имею базовые навыки дизайна.
 
-Here are some ideas to get you started:
+## 💻 Технологии
+- JavaScript (ES6+)
+- React.js
+- Vue.js
+- HTML5 & CSS3
+- Sass/SCSS
+- Webpack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Проекты
+- [Проект 1]: Карточки для запоминанию английских слов, на react
+- [Проект 2]: Адаптивный сайт по продаже автомобилей
+- [Проект 3]:
+- [Проект 4]: 
+- [Проект 5]: 
+- [Проект 6]: 
+
+## 📫 Как со мной связаться
+- Email: jessilis666@gmail.com
+- LinkedIn: [Ваш профиль]
+- Telegram: @JessiLis
+
+## ⚡ Забавный факт
+Прошла все части видеоигры Dark Souls на платину, а так же Elden Ring.
