@@ -23,8 +23,8 @@
 
 ## 📫 Как со мной связаться
 - Email: jessilis666@gmail.com
-- LinkedIn: [Ваш профиль]
-- Telegram: @JessiLis
+- LinkedIn: https://www.linkedin.com/in/jessilis
+- Telegram: @JessiLis](https://t.me/JessiLis
 
 ## ⚡ Забавный факт
 Прошла все части видеоигры Dark Souls на платину, а так же Elden Ring.
