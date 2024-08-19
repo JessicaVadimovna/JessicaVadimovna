@@ -6,6 +6,7 @@
 
 ## 💻 Технологии
 - JavaScript (ES6+)
+- TypeScript
 - React.js
 - Vue.js
 - HTML5 & CSS3
