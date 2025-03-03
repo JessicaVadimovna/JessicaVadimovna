@@ -16,6 +16,7 @@
 - [Проект 4]: https://jessicavadimovna.github.io/team_project4/ Сайт MOEX
 - [Проект 5]: https://pstepanova21.github.io/Vet-clinic/ Сайт ветклиники
 - [Проект 6]: https://jessicavadimovna.github.io/tourism/ Сайт по поиску своего гида, проект занял первое место на хакатоне IT GIRLS (на создание ушло 5 часов)
+- [Проект 7]: https://jessicavadimovna.github.io/luxnest/ LUXNEST. Лэндинг элитной недвижимости, выполнен в строгом, лаконичном стиле.
 
 ## 📫 Как со мной связаться
 - Email: jessilis666@gmail.com
