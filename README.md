@@ -11,7 +11,7 @@
 
 ## 🌟 Мои проекты
 - [Проект 1]: https://jessicavadimovna.github.io/gothic-pixel-clicker/ Инкрементальная игра с мрачной атмосферой, кликер
-- [Проект 2]: 
+- [Проект 2]: https://jessicavadimovna.github.io/pizza-shop/ Приложение на react по 
 - [Проект 3]: https://dariasch167.github.io/ITGS_79_1_Transfer/ Пассажирские грузоперевозки
 - [Проект 4]: https://jessicavadimovna.github.io/team_project4/ Сайт MOEX
 - [Проект 5]: https://pstepanova21.github.io/Vet-clinic/ Сайт ветклиники
@@ -19,6 +19,8 @@
 - [Проект 7]: https://jessicavadimovna.github.io/luxnest/ LUXNEST. Лэндинг элитной недвижимости, выполнен в строгом, лаконичном стиле.
 - [Проект 8]: https://jessicavadimovna.github.io/PharmaCorp/ Лендинг PharmaCorp Обзор Лендинг PharmaCorp — это современный адаптивный одностраничный сайт, разработанный для вымышленной фармацевтической компании.
 - [Проект 9]: https://jessicavadimovna.github.io/CozyCraft/ CozyCraft — это уютный интернет-магазин, созданный для продажи уникальных изделий ручной работы, таких как куклы, свитера, свечи и аксессуары.
+- [Проект 10]: https://jessicavadimovna.github.io/space/ Личная страничка в космическом ретро стиле
+- 
 
 ## 📫 Как со мной связаться
 - Email: jessilis666@gmail.com
