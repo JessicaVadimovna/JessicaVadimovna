@@ -10,7 +10,7 @@
 </p>
 
 ## 🌟 Мои проекты
-- [Проект 1]: 
+- [Проект 1]: https://jessicavadimovna.github.io/gothic-pixel-clicker/ Инкрементальная игра с мрачной атмосферой, кликер
 - [Проект 2]: 
 - [Проект 3]: https://dariasch167.github.io/ITGS_79_1_Transfer/ Пассажирские грузоперевозки
 - [Проект 4]: https://jessicavadimovna.github.io/team_project4/ Сайт MOEX
