@@ -121,16 +121,7 @@ HTML • CSS • JavaScript
 
 ---
 
-# 005 // GITHUB STATS
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JessicaVadimovna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JessicaVadimovna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
-# 006 // ACTIVITY GRAPH
+# 005 // ACTIVITY GRAPH
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JessicaVadimovna&theme=tokyo-night&hide_border=true"/>
@@ -138,7 +129,7 @@ HTML • CSS • JavaScript
 
 ---
 
-# 007 // CONTRIBUTION STREAK
+# 006 // CONTRIBUTION STREAK
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=JessicaVadimovna&theme=tokyonight&hide_border=true"/>
@@ -146,7 +137,7 @@ HTML • CSS • JavaScript
 
 ---
 
-# 008 // CONTRIBUTION SNAKE
+# 007 // CONTRIBUTION SNAKE
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JessicaVadimovna/JessicaVadimovna/output/github-snake-dark.svg">
@@ -156,7 +147,7 @@ HTML • CSS • JavaScript
 
 ---
 
-# 009 // CONTACT
+# 008 // CONTACT
 
 GitHub
 https://github.com/JessicaVadimovna
@@ -169,7 +160,7 @@ your-telegram
 
 ---
 
-# 010 // STATUS
+# 009 // STATUS
 
 ```txt
 Building modern frontend interfaces
