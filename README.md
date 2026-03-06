@@ -1,7 +1,7 @@
-<h1 align="center">JessiLis 🎮</h1>
+<h1 align="center">Jessica Vadimovna ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&color=FF003C&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+%2F+TypeScript+Engineer;Building+Scalable+UI+Systems;Pixel+Mindset+%7C+Cyber+Aesthetic;Clean+Code+%7C+Performance+%7C+UX" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=FF003C&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%2F+TypeScript+Engineer;Building+Scalable+UI+Systems;Clean+Code+%7C+Performance+%7C+UX" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=JessiLis&color=red&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=JessicaVadimovna&color=red&style=for-the-badge" />
 </p>
 
 ---
@@ -17,20 +17,20 @@
 ## 001 // SYSTEM.INFO
 
 ```txt
-Name: JessiLis
+Name: Jessica Vadimovna
 Role: Frontend Developer
 Level: Middle Frontend Engineer
 Focus: React, TypeScript, UI Architecture
-Status: Building scalable UI systems
+Status: Building scalable and intuitive interfaces
 ```
 
 ---
 
 ## 002 // ABOUT
 
-Frontend Developer focused on building **modern responsive interfaces and scalable UI systems**.
+Frontend Developer focused on building **modern, responsive and scalable interfaces**.
 
-I enjoy creating **clean, intuitive and maintainable web interfaces** while improving usability and performance.
+I enjoy creating **clean UI systems, reusable components and intuitive user experiences** while improving performance and maintainability.
 
 ---
 
@@ -52,10 +52,10 @@ I enjoy creating **clean, intuitive and maintainable web interfaces** while impr
 * Adaptive Interfaces
 * Pixel-perfect UI
 * UI Kit Development
-* Accessibility Basics
+* Accessibility basics
 * Microinteractions
 
-### State Management
+### State & Data
 
 * Redux Toolkit
 * Context API
@@ -64,7 +64,7 @@ I enjoy creating **clean, intuitive and maintainable web interfaces** while impr
 
 ### Styling
 
-* Tailwind
+* Tailwind CSS
 * Sass / SCSS
 * Styled Components
 * CSS Modules
@@ -105,7 +105,7 @@ React • TypeScript • Tailwind • API
 Reusable UI components and animations.
 
 Stack
-React • TypeScript • CSS / SCSS
+React • TypeScript • SCSS
 
 ---
 
@@ -122,19 +122,19 @@ HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JessiLis&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JessicaVadimovna&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessiLis&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaVadimovna&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
 ---
 
-## 007 // STREAK
+## 007 // CONTRIBUTION STREAK
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=JessiLis&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=JessicaVadimovna&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -142,21 +142,17 @@ HTML • CSS • JavaScript
 
 ## 008 // CONTRIBUTION SNAKE
 
-<p align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JessicaVadimovna/JessicaVadimovna/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JessicaVadimovna/JessicaVadimovna/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JessicaVadimovna/JessicaVadimovna/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JessicaVadimovna/JessicaVadimovna/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JessicaVadimovna/JessicaVadimovna/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JessicaVadimovna/JessicaVadimovna/output/github-snake.svg">
 </picture>
-
-</p>
 
 ---
 
 ## 009 // CONTACT
 
-GitHub: https://github.com/JessiLis
+GitHub: https://github.com/JessicaVadimovna
 LinkedIn: your-linkedin
 Telegram: your-telegram
 
@@ -165,8 +161,9 @@ Telegram: your-telegram
 ## 010 // STATUS
 
 ```txt
-Building modern UI interfaces
+Building modern frontend interfaces
 Designing scalable component systems
 Growing as a frontend engineer
 ```
+
 
