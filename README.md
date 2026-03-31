@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=JessicaVadimovna&color=red&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=JessicaVadimovna&color=pink&style=for-the-badge"/>
 </p>
 
 ---
